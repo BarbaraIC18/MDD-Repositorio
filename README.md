@@ -1,4 +1,4 @@
 # MDD-Repositorio
 
 > [!NOTE]
-> Hola, soy Barbara Inostroza
+> Hola, soy Barbara Inostroza Carrasco
